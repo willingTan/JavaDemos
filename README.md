@@ -1,2 +1,2 @@
 # java基础
-demoTwo是第二周的作业，demoThree是第三周的，以此类推
+两三个java的基础操作的demo，以后会持续更新新的功能（如果有的话0.o）
